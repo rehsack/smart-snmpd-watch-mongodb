@@ -1,0 +1,6 @@
+mongodb-stats
+mongodb-dump
+mongo_pw.cpp
+*.o
+*.swp
+*~
